@@ -1,10 +1,10 @@
 {
-  "name": "portafolio-edwinjp",
+  "name": "personal-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
   },
-  "author": "Edwin J. Páez",
-  "license": "MIT"
+  "author": "Farrukh Adeel",
+  "license": ""
 }
